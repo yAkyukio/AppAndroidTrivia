@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AppAndroidTrivia.iml" filepath="$PROJECT_DIR$/.idea/modules/AppAndroidTrivia.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppAndroidTrivia.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppAndroidTrivia.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppAndroidTrivia.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppAndroidTrivia.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppAndroidTrivia.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppAndroidTrivia.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppAndroidTrivia.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppAndroidTrivia.app.unitTest.iml" />
     </modules>
   </component>
 </project>
